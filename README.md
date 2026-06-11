@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Pratik Kanojia**  
+**Pratik Kanoj**  
 *Staff Software Engineer & AI Architect*  
 [LinkedIn](https://www.linkedin.com/in/pratik-kanojia/) | [GitHub](https://github.com/pratikskanoj) | [Portfolio](#)  
 Passionate about bridging the gap between cutting-edge LLMs and robust distributed systems.
