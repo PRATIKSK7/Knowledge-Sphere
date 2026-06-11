@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.save
+venv/
+node_modules/
+dist/
+build/
+uploads/
+ollama_data/
+*.db
+.DS_Store
